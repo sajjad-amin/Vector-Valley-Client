@@ -17,7 +17,7 @@ const NavigationBar = () => {
                         <span className="navbar-toggler-icon"/>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-                        <a className="navbar-brand" href="#">Vector Valley</a>
+                        <a className="navbar-brand display-6">VECTOR VALLEY</a>
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item">
                                 <Link to="/" className="nav-link">Home</Link>
